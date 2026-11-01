@@ -1,0 +1,4068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>EQM</name>
+      <longname>Equilibrium</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Porc-épic ronce-sang</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Créature : hérisson et bête et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Rempart — Quand cette créature bloque, mettez un marqueur Saignement sur la créature bloquée, le Porc-épic ronce-sang gagne +X/+0 jusqu’à la fin du tour, X étant le nombre de marqueurs Saignement sur la créature bloqué.</text>
+    </card>
+    <card>
+      <name>Sauvagerie</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B // 1B</manacost>
+        <cmc>4</cmc>
+        <type>Éphémère // Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Répartissez cinq marqueurs Saignement parmi n’importe quel nombre de créatures ciblées.
+--- 
+Retirez tous les marqueurs Saignement sur la créature ciblée. Vous gagnez autant de point de vie que de marqueurs retirés de cette manière.
+Surcharge 4B (Vous pouvez lancer ce sort pour son coût de surcharge. Si vous faites ainsi, modifiez son texte en remplaçant toutes les occurrences de « ciblé » par « chaque ».)</text>
+    </card>
+    <card>
+      <name>Brute d&apos;Abysse</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Créature : cultiste et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que la Brute d’Abysse inflige des blessures de combat à un adversaire, mettez autant de marqueurs Saignement sur une créature que ce joueur contrôle.</text>
+    </card>
+    <card>
+      <name>Monument de la Loutre Noir</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Artefact légendaire</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Indestructible
+À chaque fois qu’une créature quitte le champ de bataille, si elle avait des marqueurs Saignement sur elle, mettez ces marqueurs sur le Monument de la Loutre Noir.
+{T}: Déplacez tous les marqueurs Saignement de cet artefact sur une créature ciblée</text>
+    </card>
+    <card>
+      <name>Cultiste sadique</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Créature : cultiste et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’une créature avec un ou plusieurs marqueur Saignement meurt pendant chaque entretient, piochez une carte.</text>
+    </card>
+    <card>
+      <name>Maître-douleur du Culte</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Créature : cultiste et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous piochez une carte, sauf la première que vous piochez pendant chacune de vos étapes de pioche, mettez un marqueur Saignement sur une créature ciblée</text>
+    </card>
+    <card>
+      <name>Pluie sanglante</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Mettez un marqueur Saignement sur une créature ciblée.
+Déluge (Quand vous lancez ce sort, copiez-le pour chaque sort lancé avant lui ce tour-ci.)</text>
+    </card>
+    <card>
+      <name>Don de l&apos;hémophilie</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Si un ou plusieurs marqueurs Saignement devaient être mis sur une créature, vous pouvez en mettre le double à la place.</text>
+    </card>
+    <card>
+      <name>Calmer la douleur</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Détruisez la créature ciblée qui au moins un marqueur Saignement sur elle.</text>
+    </card>
+    <card>
+      <name>Rats hémorragiques</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Créature : bête et rat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand les Rats hémorragiques meurt, mettez un marqueur Saignement sur une créature ciblée.</text>
+    </card>
+    <card>
+      <name>Scarificateur des Terres maudites</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Créature : humain et shamane et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ce sort coûte {1} de moins à lancer pour chaque marqueur Saignement sur les créatures que vous contrôlez.
+2G : Mettez un marqueur Saignement sur une créature ciblée.</text>
+    </card>
+    <card>
+      <name>Témoin ancestral</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et shamane et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Si un ou plusieurs marqueurs Saignement devaient être mis sur le Témoin ancestral, mettez autant de marqueurs +1/+1 à la place.
+Règne — À chaque fois que vous lancez un sort d’un coût supérieur ou égal à cinq, mettez un marqueur Saignement sur une créature ciblée.</text>
+    </card>
+    <card>
+      <name>Jin, fugitif tourmenté</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Créature légendaire : humain et soldat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que Jin, fugitif tourmenté attaque ou bloque, vous pouvez exiler un enchantement depuis votre cimetière. Si vous faites ainsi, mettez un marqueur +1/+1 sur Jin, il gagne le lien de vie jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Instinct de survie prédateur</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>La créature ciblée que vous contrôlez avec un marqueur Saignement gagne l’indestructible jusqu’à la fin du tour. Elle se bat contre une créature ciblée qu’un adversaire contrôle.</text>
+    </card>
+    <card>
+      <name>Crache-sang embusqué</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Créature : bête et lézard et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Si des blessure devaient être infligées au Crache-sang embusqué par des marqueurs Saignement, prévenez ces blessures. Cette créature inflige autant de blessures à une créature ciblée.</text>
+    </card>
+    <card>
+      <name>Tyran braconné</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Créature : Bête et Dinosaure et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Piétinement
+Le Tyran braconné arrive avec trois marqueurs Saignement.</text>
+    </card>
+    <card>
+      <name>Floraison dans le sang</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’une créature subit un ou plusieurs blessures par des marqueurs Saignement, vous gagnez un point de vie.</text>
+    </card>
+    <card>
+      <name>La violence engendre la vie</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XXG</manacost>
+        <cmc>1</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cherchez dans bibliothèque une carte de créature avec une valeur de mana inférieur ou égale à X plus le nombre de marqueurs Saignement sur une créature ciblée. Mettez cette carte sur le champ de bataille, puis mélangez votre bibliothèque.</text>
+    </card>
+    <card>
+      <name>Ancêtre immuable</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Créature : bête et ancêtre et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Piétinement, vigilance
+Si une source autre que des marqueurs Saignement devait infligé des blessure à l’Ancêtre immuable, mettez autant de marqueurs Saignement sur lui à la place.
+Quand l’Ancêtre immuable meut, vous gagnez autant de points de vie que de marqueur Saignement sur cette créature</text>
+    </card>
+    <card>
+      <name>Renaissance d&apos;Orlane</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exilez une créature que vous contrôlez. Renvoyez-la sur le champ de bataille sous votre contrôle au début de la prochaine étape de fin. Si cette créature avait au moins un marqueur Saignement, la Renaissance d’Orlane inflige autant de blessures à chaque adversaire que de marqueur Saignement qu’elle avait.</text>
+    </card>
+    <card>
+      <name>Compréhension appaisé</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Éveil— À chaque fois qu’un autre enchantement non-jeton que vous possédez est mis au cimetière ou en exil, gagnez X point de vie. X étant la valeur de mana de cet enchantement.</text>
+    </card>
+    <card>
+      <name>Guide ethéré</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Créature-enchantement : esprit et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand le Guide ethéré quitte le champ de bataille, piochez une carte.
+Éveil — À chaque fois qu’un autre enchantement non-jeton que vous possédez est mis au cimetière ou en exil, piochez une carte.</text>
+    </card>
+    <card>
+      <name>Épreuve de la Sentinelle</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash.
+Quand l’Épreuve de la Sentinelle arrive, détruisez la créature ciblée.
+{4}, sacrifiez l’Épreuve de la Sentinelle : Choisissez deux —
+• Vous gagnez 2 points de vie
+• Piochez une carte
+• Créez un jeton de créature-enchantement 1/1 blanc esprit avec le vol et la vigilance</text>
+    </card>
+    <card>
+      <name>Raye-registre d&apos;Ixela</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et sorcier et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand le Raye-registre d’Ixela arrive, vous pouvez chercher dans votre bibliothèques une carte d’enchantement et la mettre dans votre cimetière, si vous le faite mélangez votre bibliothèque.</text>
+    </card>
+    <card>
+      <name>Avènement de l&apos;Armée immortelle</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand cette enchantement arrive, créez un jeton 2/2 blanc Chevalier et Esprit avec l’initiative.
+{2}, sacrifiez l’Avènement de l’Armée immortelle : Les créatures que vous contrôlez gagnent le lien de vie jusqu’à la fin du tour.
+3W : Renvoyez cet enchantement sur le champ de bataille depuis votre cimetière. N’activez que lorsque vous pourriez lancer un rituel.</text>
+    </card>
+    <card>
+      <name>Ordre selon Céleste</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exilez un enchantement ciblé. Créez un jeton de créature X/X incolore Golem avec le piétinement, X étant la valeur de mana de l’enchantement exilé.</text>
+    </card>
+    <card>
+      <name>Anima de Céleste</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>7W</manacost>
+        <cmc>8</cmc>
+        <type>Créature-enchantement : golem et élémental et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>L’Anima de Céleste coûte {1} de moins à lancer pour chaque enchantement dans votre cimetière et votre exil. Les autres créatures que vous contrôlez ont +1/+2. Les enchantement que vous contrôlez ont la parade {2}.</text>
+    </card>
+    <card>
+      <name>Révélation onirique</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Quand Révélation onirique arrive, piochez deux cartes.
+1W, sacrifiez Révélation onirique: Vous gagnez un nombre de point de vie égal au nombre de cartes dans votre main.</text>
+    </card>
+    <card>
+      <name>Vitalité de veine lumière</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantement : aura et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchanter : créature.
+La créature enchantée à +2/+1 et la vigilance.</text>
+    </card>
+    <card>
+      <name>Voile du destin</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type> Artefact-enchantement légendaire : équipement et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>La créature équipée ne peux pas être bloqué tant qu’un enchantement que vous contrôlez a quitté le champ de bataille ce tour-ci.
+La créature équipée a : “À chaque fois que cette créature inflige des blessures de combat à un joueur, vous pouvez meulez quatre cartes. Vous pouvez mettre une carte d’enchantement meulez de cette manière.”
+Équipement— Sacrifiez un enchantement. N’activez qu’une seul fois par tour. </text>
+    </card>
+    <card>
+      <name>Chant de Shania</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U // 2U</manacost>
+        <cmc>5</cmc>
+        <type>Enchantement // Rituel : Aventure et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Au début de votre phase de combat, la créature ciblée acquiert le vol jusqu’à la fin du tour.
+2U, sacrifiez le Chant de Shania : Détruisez la créature attaquante ou bloqueuse ciblée.
+--- 
+Créez un jeton de créature-enchantement 0/1 bleu Illusion avec le défenseur et “À chaque fois que cette créature bloque, vous pouvez piocher une carte.”</text>
+    </card>
+    <card>
+      <name>Fracture du miroir</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>En tant que coût supplémentaire pour lancer ce sort, sacrifiez un enchantement.
+Chaque adversaire sacrifie une créature.</text>
+    </card>
+    <card>
+      <name>Harpie protectrice</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Créature : harpie et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol
+Quand la Harpie protectrice arrive ou attaque, surveillez 1.
+Éveil— À chaque fois qu’un autre enchantement non-jeton que vous possédez est mis au cimetière ou en exil, chaque adversaire perd un point de vie.</text>
+    </card>
+    <card>
+      <name>Bienveillant de Sivid</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand le Bienveillant de Sivid arrive, piochez une carte puis défaussez-vous d’une carte. Si un enchantement est défaussée de cette manière, gagnez un nombre de point de vie égal à sa valeur de mana.</text>
+    </card>
+    <card>
+      <name>Labyrinthe mental</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantement : aura et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchanter : créature
+Quand le Labyrinthe mental arrive, engagez la créature enchantée et mettez-lui trois marqueurs étourdissement.
+À chaque fois qu’un sort ou un permanent provoque le déclenchement d’une capacité déclenchée de la créature enchantée, mettez un marqueur étourdissement sur cette créature.
+Si la créature enchantée n’a plus de marqueur étourdissement, sacrifiez le Labyrinthe mental</text>
+    </card>
+    <card>
+      <name>Apparition de Shanïa</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Créature-enchantement : esprit et cerf et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>L’Apparition de Shanïa arrive avec X marqueurs +1/+1, X étant le nombre d’enchantement dans votre cimetière et votre exil.
+Éveil— À chaque fois qu’un autre enchantement non-jeton que vous possédez est mis au cimetière ou en exil, mettez un marqueurs +1/+1 sur cette créature.</text>
+    </card>
+    <card>
+      <name>Dernière incantation</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>En tant que coût supplémentaire pour lancez ce sort, sacrifiez une créature que vous contrôlez.
+Exilez un enchantement que vous contrôlez. Vous pouvez jouer l’enchantement exilé sans payer son coût de mana jusqu’à la fin du tour comme si il avait le flash.</text>
+    </card>
+    <card>
+      <name>Lueur de Nalwe</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Créature-enchantement : esprit et hippocampe et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand Lueur de Nalwe arrive chaque adversaire perd un point de vie.
+Éveil— À chaque fois qu’un autre enchantement non-jeton que vous possédez est mis au cimetière ou en exil, piochez une carte et perdez un point de vie.</text>
+    </card>
+    <card>
+      <name>Imitateur d&apos;essence</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Créature-enchantement : métamorphe et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vous pouvez faire arriver l’Imitateur d’essence en tant que copie d’un enchantement non-créature dans n’importe quel cimetière. C’est une créature en plus de ses autres types.</text>
+    </card>
+    <card>
+      <name>Honneur des batailles sans fin</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Au début votre entretien, vous pouvez renvoyer sur le champ de bataille une carte de créature ciblée depuis votre cimetière, elle acquiert la célérité et “Sacrifiez cette créature au début de votre étape de fin”. L’Honneur des batailles sans fin vous inflige un nombre de blessures égal à la force de cette créature.</text>
+    </card>
+    <card>
+      <name>Persécuteur rénégat</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et soldat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Célérité 
+Descellement— Quand cette créature quitte le cimetière, créez un jeton qui est une copie de cette créature avec “Sacrifiez cette créature au début de la prochaine étape de fin”. </text>
+    </card>
+    <card>
+      <name>Rabatteur d&apos;Hubryss</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et gradin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand Rabatteur d’Hubryss arrive il inflige une blessure à chaque adversaire.
+Descellement— Quand cette créature quitte le cimetière, il inflige deux blessures à chaque adversaire.</text>
+    </card>
+    <card>
+      <name>Hydraete</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Créature : bête et hydre et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>En tant que coût supplémentaire pour lancer ce sort, exilez quatre cartes de votre cimetière.</text>
+    </card>
+    <card>
+      <name>Flux de Mort corrompu</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantement : Aura et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchanter : créature.
+Quand vous lancez ce sort vous pouvez renvoyer une carte de créature de votre cimetière sur le champ de bataille, si vous le faite attachez cette aura à cette créature.
+La créature enchanté a une force et une endurance de base de 2/2.</text>
+    </card>
+    <card>
+      <name>Jugement de Midiri</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Choisissez l’un —
+• Le Jugement de Midiri inflige 5 blessures à la créature ciblée.
+•  Exilez une carte non-terrain depuis votre cimetière. Exilez un permanent non-terrain dont la valeur de mana est inférieur ou égale à celle de la carte exilée.</text>
+    </card>
+    <card>
+      <name>Terra Nihilis</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Créature légendaire : élémental et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que Terra Nihilis attaque vous pouvez exiler une carte de permanent de votre cimetière. Si vous faites ainsi, mettez au choix un marqueur lien de vie, piétinement, initiative ou vigilance sur cette créature.</text>
+    </card>
+    <card>
+      <name>Baladeur des champs de bataille</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et gredin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Célérité
+À chaque fois que le Baladeur des champs de bataille attaque, vous pouvez vous défausser d’une carte. Si vous faite ainsi, renvoyer une autre carte de permanent depuis votre cimetière dans votre main.</text>
+    </card>
+    <card>
+      <name>Zélote de Galdarin</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Créature : humain et moine et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Descellement — Quand cette créature quitte le cimetière, piochez une carte.</text>
+    </card>
+    <card>
+      <name>Réceptacle de fureur</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Créature : manifestation et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand cette créature arrive exilez une créature d’un cimetière ciblé. Vous pouvez faire que le Réceptacle de fureur arrive comme une copie de cette créature, il s’appelle toujours Réceptacle de fureur, est une manifestation en plus de ses autres types et à une force et une endurance de base de 7/8.</text>
+    </card>
+    <card>
+      <name>Cantique de Sokham</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Cantique de Sokham inflige X blessures à une créature ciblée. Vous pouvez renvoyer sur le champ de bataille une carte de créature depuis votre cimetière ayant une valeur de mana inférieur ou égale au surplus de blessures infligées de cette manière.</text>
+    </card>
+    <card>
+      <name>Mort factice</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Jusqu’à la fin du tour la créature ciblée acquiert “Au début de la prochaine étape de fin, si cette créature est dans votre cimetière, renvoyez-la sur le champ de bataille sous votre contrôle.”</text>
+    </card>
+    <card>
+      <name>Doublure sacrifiable</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et gredin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand Doublure sacrifiable quitte le champ de bataille, vous pouvez renvoyer dans votre main une autre carte de créature depuis votre cimetière.</text>
+    </card>
+    <card>
+      <name>Songur, chercheur corrompu</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Créature légendaire : humain et scientifique et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’une carte de créature quitte votre cimetière, mettez un marqueurs +1/+1 sur cette créature.
+Au début de votre entretien, vous pouvez renvoyer une carte de créature avec une force inférieur à celle de Songur depuis votre cimetière dans votre main.</text>
+    </card>
+    <card>
+      <name>Sermon de Mirta</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Détruisez la créature ou l’enchantement ciblé. Si une carte a quitté votre cimetière ce tour-ci, exilez ce permanent à la place.</text>
+    </card>
+    <card>
+      <name>Macabre opportuniste</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Créature : bête et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Défenseur, parade {1}
+Si une carte a quitté votre cimetière ce tour-ci, le Macabre opportuniste peut attaquer comme s’il n’avait pas le défenseur.</text>
+    </card>
+    <card>
+      <name>Embuscade du culte</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Créez deux jetons de créature 2/1 noire cultiste avec la menace.
+Flashback 4B (Vous pouvez lancer cette carte depuis votre cimetière pour son coût de flashback. Exilez-la ensuite.)</text>
+    </card>
+    <card>
+      <name>Félon de la garde royal</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Créature : humain et soldat et gredin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lien de vie.
+Quand Félon de la garde royal arrive, il inflige un nombre de blessures égal aux nombres Saignement sur la créature ciblée.
+Descellement — Quand cette créature quitte le cimetière, répartissez deux marqueurs Saignement parmi les créatures que vos adversaires contrôlent.</text>
+    </card>
+    <card>
+      <name>Détraqueur de flux divin</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Artefact</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand le Détraqueur de flux divin arrive meulez deux cartes.
+TBB, exilez une carte de votre cimetière : Renvoyez une carte de permanent depuis votre cimetière dans votre main puis mettez un marqueur Corruption sur cet artefact.
+{T}, exilez le Détraqueur de flux divin : Renvoyez sur le champ de bataille, depuis votre cimetière, une carte de créature votre cimetière dont la force est inférieur  ou égale au nombre de marqueurs Corruption sur cet artefact.</text>
+    </card>
+    <card>
+      <name>Mendiant de la Main</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et gredin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand Mendiant de la Main arrive, chaque joueur pioche une carte.
+Descellement — Quand cette créature quitte le cimetière, chaque adversaire se défausse d’une carte.</text>
+    </card>
+    <card>
+      <name>Vautour de Mirta</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Créature : bête et oiseau et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol
+À chaque fois que le Vautour de Mirta attaque, vous pouvez exiler une carte de créature depuis un cimetière. Si une carte a quitté votre cimetière de cette manière, cette créature gagne +2/+0 jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Scolopendre déchire-chair</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Créature : bête et insecte et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Scolopendre déchire-chair ne peut ni attaquer ni bloquer à moins que vous ne vous soyez défaussé d’une carte ce tour-ci.</text>
+    </card>
+    <card>
+      <name>Agent de la Lame</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et assassin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Kick— Défaussez-vous d’une carte.
+Si cette créature a été kické, il acquiert le contact mortel et le lien de vie jusqu’à la fin du tour.
+Quand l’Agent de la Lame arrive, il inflige un point de dégâts à n’importe quelle cible. </text>
+    </card>
+    <card>
+      <name>Âme perdue</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Créature : esprit et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol
+Sacre — Quand cette carte est mise dans votre cimetière depuis votre main ou votre bibliothèque, renvoyez sur le champ de bataille toutes les cartes nommées Âme perdue depuis votre cimetière.</text>
+    </card>
+    <card>
+      <name>Folie meurtrière d&apos;Hubrys</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Multikick— Défaussez-vous d’une carte.
+Détruisez jusqu’à une créature ciblée. Pour chaque fois que ce sort a été kické, vous pouvez choisir une cible supplémentaire.</text>
+    </card>
+    <card>
+      <name>Vagabond des fleuves</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B // 1B</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et moine et  // Éphémère : Aventure et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacre — Quand cette carte est mise dans votre cimetière depuis votre main ou votre bibliothèque, vous pouvez lancer ce sort en tant qu’aventure sans payer son coût de mana jusqu’à la fin du tour.
+--- 
+Kick {B} 
+Si ce sort a été kické, surveillez 2.
+Piochez deux cartes et perdez deux points de vie.</text>
+    </card>
+    <card>
+      <name>Leçon des noyés</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tant qu’au moins un adversaire a plus de cartes en main que vous, les cartes de créature dans votre main et dans votre bibliothèque ont “Sacre — Piochez une carte”.</text>
+    </card>
+    <card>
+      <name>Apprenti thanatopracteur</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand l’Apprenti thanatopracteur arrive, cherchez dans votre bibliothèque une carte avec le Sacre, révélez-la, puis mélangez et mettez cette carte au-dessus de votre bibliothèque.</text>
+    </card>
+    <card>
+      <name>Passeur bienveillant</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Créature : Humain et Clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’une capacité de Sacre que vous contrôlez ce déclenche, créez un jeton de créature 1/1 noire Esprit avec le vol. Cette capacité ne se déclenche qu’une fois par tour.
+Sacre— Quand cette carte est mise dans votre cimetière depuis votre main ou votre bibliothèque, créez un jeton de créature 1/1 noire Esprit avec le vol.</text>
+    </card>
+    <card>
+      <name>Grand corbeau né des ombres</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Créature : esprit et oiseau et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’une capacité de Sacre que vous contrôlez ce déclenche, vous pouvez retirer un marqueurs sur cette créature.
+Sacre — Renvoyez cette carte sur le champ de bataille engagée avec cinq marqueurs étourdissement sur elle.</text>
+    </card>
+    <card>
+      <name>Renoncer à la Foi</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>En tant que coût supplémentaire pour lancer ce sort, défaussez-vous d’une carte ou meulez deux cartes.
+La créature ciblé gagne -3/-3 jusqu’à la fin du tour. Si cette créature meurt ce tour-ci, vous pouvez renvoyer une carte de créature depuis votre cimetière au-dessus de votre bibliothèque.</text>
+    </card>
+    <card>
+      <name>Codex du savoir perpétuel</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artefact</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous n’avez plus de cartes en main, piochez une carte. Cette capacité ne se déclenche qu’une fois par tour.</text>
+    </card>
+    <card>
+      <name>Baudroie d&apos;encre</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Créature : esprit et poisson et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que la Baudroie d’encre attaque, meulez une carte. Si une carte de créature a été meulée de cette manière, cette créature ne peut être bloqué jusqu’à la fin du tour.
+Sacre— À chaque fois qu’un autre enchantement non-jeton que vous possédez est mis au cimetière ou en exil, la créature ciblée ne peut être bloqué jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Augure savant</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Surveillez 1, puis vous pouvez payer {U}. Si vous faites ainsi, piochez une carte.</text>
+    </card>
+    <card>
+      <name>Saya, choisie par Orlane</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Créature légendaire : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’une ou plusieurs cartes sont mises dans votre cimetière depuis votre main ou votre bibliothèque, mettez un marqueur +1/+1 sur Saya, choisie par Orlane.
+Quand Saya quitte le champ de bataille, elle inflige X blessures à une créature ciblé, X étant la force de Saya, si Saya est mise dans votre cimetière elle inflige autant de blessures à n’importe quelle cible à la place.</text>
+    </card>
+    <card>
+      <name>Planification omnisciente</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand vous devez piochez une ou plusieurs cartes, piochez en autant plus une à la place puis défaussez vous d’une carte</text>
+    </card>
+    <card>
+      <name>Déchiffrer les Anciens</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Piochez deux cartes.
+Sacre— Quand cette carte est mise dans votre cimetière depuis votre main ou votre bibliothèque, vous pouvez lancer ce sort depuis votre cimetière ce tour sans payer son coût, si vous le faite exilez le.</text>
+    </card>
+    <card>
+      <name>Origami de savoir</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Créature : esprit et oiseau et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol
+À chaque fois que l’Origami de savoir inflige des dégâts de combat à un joueur vous pouvez vous défausser d’une carte, si vous le faite exiler la carte du dessus de la bibliothèque d’un adversaire. Vous pouvez jouer une carte exilé de cette manière jusqu’à la fin du tour, vous pouvez dépensez du mana comme s’il s’agissait de mana de n’importe quelle couleur pour lancer ce sort.</text>
+    </card>
+    <card>
+      <name>Surcharge mémoriel</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Engagez un permanent non-terrain ciblé que vous ne contrôlez pas. Piochez une carte.
+Surcharge— 3U, Défaussez vous de votre main. (Vous pouvez lancer ce sort pour son coût de surcharge. Si vous faites ainsi, modifiez son texte en remplaçant toutes les occurrences de « ciblé » par « chaque ».)</text>
+    </card>
+    <card>
+      <name>Guide des marées</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UUU</manacost>
+        <cmc>8</cmc>
+        <type>Créature : bête et baleine et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Piétinement
+Si une carte mise dans votre cimetière depuis votre main ou votre cimetière provoque le déclenchement d’une capacité déclenchée d’une carte dans votre cimetière ou d’un permanent que vous contrôlez, cette capacité se déclenche une fois de plus.</text>
+    </card>
+    <card>
+      <name>Profondeur insondable</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Détruisez une créature ciblé. Meulez un nombre de cartes égal à l’endurance de cette créature.</text>
+    </card>
+    <card>
+      <name>Garvan, second du Pavillon Rouge</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Créature légendaire : humain et pirate et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que Garvan attaque meulez jusqu’à X cartes, X étant votre dévotion au bleu. 
+Garvan gagne +1/+0 pour chaque carte non-terrain meulé ce tour.</text>
+    </card>
+    <card>
+      <name>Saigneur loyal à Hubrys</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Créature : humain et gredin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous lancez un sort pendant le tour d’un adversaire, mettez un marqueur Saignement sur jusqu’à une créature ciblée.</text>
+    </card>
+    <card>
+      <name>Absorbé par l&apos;Abysse</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exilez la créature ciblée. Son contrôleur crée deux jetons de créature 1/1 noir abyssal avec le vol.</text>
+    </card>
+    <card>
+      <name>Déserteur des garde-frontières</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et gredin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous lancez un sort pendant le tour d’un adversaire, cette créature inflige un point de dégât à chaque adversaire.</text>
+    </card>
+    <card>
+      <name>Cycle mémoriel</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lancez une copie d’une carte d’éphémère ou de rituel d’un cimetière ciblé.</text>
+    </card>
+    <card>
+      <name>Tueur porté par les Vents</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Créature : humain et assassin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Quand le Tueur porté par les Vents arrive, si ce n’est pas votre tour détruisez jusqu’à une créature ciblée.</text>
+    </card>
+    <card>
+      <name>Akaram, stratège de la Main</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Créature légendaire : humain et gredin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous lancez un sort pendant le tour d’un adversaire, mettez un marqueur Corruption sur cette créature.
+{X}, retirer un marqueur Corruption de cette créature : Exilez un sort de votre cimetière avec un coût inférieur ou égal à X. Vous pouvez lancer ce sort sans payer son coût de mana jusqu’à la fin du tour. N’activez cette capacité qu’une seul fois par tour lorsque vous pourriez lancer un rituel.</text>
+    </card>
+    <card>
+      <name>Frisson de mauvais augure</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vous pouvez lancer votre prochain sort comme si il avait le flash.</text>
+    </card>
+    <card>
+      <name>Ascension d&apos;Abysse</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>La première fois que vous lancer un sort pendant le tour d’un adversaire vous pouvez payer {B}, si vous le faite crée un jeton de créature 1/1 noir abyssal avec le vol.</text>
+    </card>
+    <card>
+      <name>Ailes de la Chouette</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et éclaireur et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vos sort coûte {1} de moins à lancer pendant le tour de vos adversaires.</text>
+    </card>
+    <card>
+      <name>Agent de sécurité du Crochet</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Créature : humain et gredin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Piétinement
+Quand vous lancer un sort pendant le tour d’un adversaire vous pouvez payer BB, renvoyez cette créature depuis votre cimetière sur le champ de bataille.</text>
+    </card>
+    <card>
+      <name>Garde-frontières zélée</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et soldat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous lancez un sort pendant le tour d’un adversaire, gagnez un point de vie.</text>
+    </card>
+    <card>
+      <name>Prêtre guerrier d&apos;élite</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Créature : humain et clerc et soldat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+{T}: Vous pouvez lancer votre prochain sort sans payez son coût de mana, payez un nombre de points de vie égal à sa valeur de mana.</text>
+    </card>
+    <card>
+      <name>Rassembleur des Vents</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous lancez un sort pendant le tour d’un adversaire, mettez un marqueur +1/+1 sur une créature que vous contrôler.</text>
+    </card>
+    <card>
+      <name>Preuve de Sokham</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artefact : équipement et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>La créature équipé à +2/+1.
+À chaque fois que vous lancez un sort pendant le tour d’un adversaire, dégagez la créature équipé, elle acquiert le lien de vie jusqu’à la fin du tour. Cette capacité ne se déclenche qu’une seul fois par tour.
+Équipement 1W</text>
+    </card>
+    <card>
+      <name>Erim, Sentinelle de la légende</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Créature légendaire : humain et soldat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash, Vigilance
+Quand Erim, Sentinelle de la légende arrive, les sorts coûte {1} de plus jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Seigneur du vent</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Créature-enchantement : esprit et oiseau et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol, vigilance
+À chaque fois que vous lancez un sort pendant le tour d’un adversaire, vous pouvez payer 1W, si vous le faite copiez ce sort.</text>
+    </card>
+    <card>
+      <name>Capitaine héroïque</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et soldat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Quand le Capitaine héroïque arrive, les créatures que vous contrôlez ont +1/+2 jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Prisonier du cyclone</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Détruisez la créature ciblée. Si vous avez lancer un autre sort ce tour-ci, exilez la créature ciblée à la place.</text>
+    </card>
+    <card>
+      <name>Transaction précipité</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Choisissez l’un —
+• Exilez un artefact ciblé, son contrôleur pioche une carte et gagne un point de vie.
+• Exilez une créature ciblée, son contrôleur crée un jeton Trésor et un jeton Indice.
+• Exilez un enchantement ciblé, son contrôleur crée un jeton de créature 1/1 noir abyssal avec le vol et un jeton de créature 1/1 blanche céleste avec le lien de vie.
+</text>
+    </card>
+    <card>
+      <name>Muse des chants de guerre</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Créature : esprit et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Évocation WW (Vous pouvez lancer ce sort pour son coût d’évocation. Si vous faites ainsi, il est sacrifié quand il arrive sur le champ de bataille.)
+Vous pouvez lancer ce sort comme si il avait le flash si son coût d’évocation est payé.
+La Muse des chants de guerre à +1/+1 tant que ce n’est pas votre tour.
+Quand cette créature meurt piochez X cartes, X étant la force de cette créature.</text>
+    </card>
+    <card>
+      <name>Lueur éternel de Radogen</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artefact</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Au début de votre étape de fin, si vous avez perdu des points de vie ce tour, gagnez cinq point de vie.
+{T}: Ajoutez {W} ou {R} à votre réserve.</text>
+    </card>
+    <card>
+      <name>Maître de bataille béni</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et clerc et soldat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lien de vie
+1W: Mettez un marqueurs +1/+1 sur jusqu’à deux créatures. N’activez qu’une fois par tour, seulement si vous avez gagné des points de vie ce tour.</text>
+    </card>
+    <card>
+      <name>Prêcheur de Sivid</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’une créature non-jeton que vous contrôlez quitte le champ de bataille choisissez l’un qui n’a pas été choisie ce tour —
+• Piochez une carte et perdez un point de vie.
+• Créez un jeton de créature 1/1 blanche Céleste avec le lien de vie.
+</text>
+    </card>
+    <card>
+      <name>Fileuse de vie</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand vous gagnez des points de vie vous pouvez engagé cette créature, si vous le faite créer un jeton de créature X/X blanche élémentaire, X étant le nombre de point de vie que vous avez gagné ce tour.</text>
+    </card>
+    <card>
+      <name>Bannissement pénitent</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Kick— Payer quatre points de vie
+Détruisez la créature ciblé. Si ce sort a été kické exilez cette créature à la place.</text>
+    </card>
+    <card>
+      <name>Vigueur obsessionnel</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Choisissez l’un —
+• Les créatures que vous contrôler ont +2/+2 et l’indestructible jusqu’à la fin du tour.
+• Gagnez un nombre de point de vie égal au nombre de point de vie que vous avez perdu ce tour-ci.
+</text>
+    </card>
+    <card>
+      <name>Dévôt des Serres Ardentes</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lien de vie
+Quand vous gagnez des points de vie vous pouvez payer {W}, si vous le faites mettez un marqueur +1/+1 sur cette créature.</text>
+    </card>
+    <card>
+      <name>Don de Sivid</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantement : aura et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchanter : créature
+La créature enchanté à +1/+1 et “à chaque fois que vous gagnez au moins un point de vie, piochez une carte”.</text>
+    </card>
+    <card>
+      <name>Paon céleste de vitalité</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Créature : esprit et oiseau et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+Au début de la phase de combat vous pouvez payer trois points de vie, si vous le faite le Paon céleste de vitalité acquiert le vol jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Devialnagor</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Créature : bête et dragon et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol
+Quand Devialnagor attaque, il inflige un point de dégâts à chaque joueur.</text>
+    </card>
+    <card>
+      <name>Brûlure de sang divin</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>En tant que coût supplémentaire pour lancer ce sort, payer X point de vie.
+La Brûlure de sang divin inflige X point de dégâts à une créature ciblée. Si X est supérieur ou égal à cinq, piochez une carte.
+ </text>
+    </card>
+    <card>
+      <name>Ravageur des Terres morte</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Créature : bête et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Piétinement
+Ce sort coûte {2} de moins à lancer si vous avez perdu des points de vie ce tour.</text>
+    </card>
+    <card>
+      <name>Courroux de Radogen</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Détruisez la créature ciblée. Son contrôleur perd un nombre de point de vie équivalent à la force de cette créature et vous perdez des points de vie égal à l’endurance de cette créature.</text>
+    </card>
+    <card>
+      <name>Chevaucheur des steppes</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et gredin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Kick— Payez quatre point de vie
+Si ce sort a été kické cette créature acquiert la célérité jusqu’à la fin du tour.
+À chaque fois que cette créature attaque, exilez la carte du dessus de votre bibliothèque. Vous pouvez jouer cette carte sans payer son coût de mana si sa valeur de mana est inférieur au nombre de point de vie que vos adversaire ont perdu ce tour.</text>
+    </card>
+    <card>
+      <name>Buveuse d&apos;Ether</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Créature : bête et sangsue et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lien de vie
+RR: Le prochain sort d’éphémère ou de rituel que vous lancez a le lien de vie.</text>
+    </card>
+    <card>
+      <name>Investiture de la Flamme</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Kick— {R}, payez quatre points de vie
+Choisissez l’un, si ce sort a été kické, choisissez les deux —
+• Une créature ciblée que vous contrôlez acquiert le lien de vie et l’indestructible et +1/+1 jusqu’à la fin du tour.
+• Investiture de la Flamme inflige 3 points de dégâts à chaque créature.</text>
+    </card>
+    <card>
+      <name>Chasseur à l&apos;ichor béni</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Menace
+À chaque fois que vous perdez des point de vie pendant votre tour, mettez un marqueur +1/+1 sur le Chasseur à l’ichor béni.</text>
+    </card>
+    <card>
+      <name>Creuser antique de Forgesang</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artefact</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous perdez des points de vie pour la première fois chaque tour, mettez un marqueur Charge sur cet artefact.
+T2R: Créez un jeton de créature-artefact 0/0 golem sang-acier avec X marqueurs +1/+1, X étant le nombre de marqueurs Charge sur le Creuser antique de Forgesang.</text>
+    </card>
+    <card>
+      <name>Médiateur du Cercle</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, payer deux points de vie : ajoutez {R} à votre réserve.</text>
+    </card>
+    <card>
+      <name>Accident cruel</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>L’Accident cruel inflige 4 blessures à une créature ciblée. Si vous avez perdu des points de vie ce tour, l’Accident cruel inflige 4 blessures à n’importe quelle cible à la place.</text>
+    </card>
+    <card>
+      <name>Valse de l&apos;épée des Roses</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Choisissez l’un ou les deux, une même créature ne peut être ciblé plus d’un fois —
+• Une créature ciblé gagne +0/+2 et la portée jusqu’à la fin du tour.
+• Une créature ciblée gagne +2/+0 et l’initiative jusqu’à la fin du tour.
+</text>
+    </card>
+    <card>
+      <name>Protecteur de la Rose</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et chevalier et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+Rempart— À chaque fois que cette créature bloque,  il gagne +2/+0 jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Maître des reflets embrasés</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Rempart— À chaque fois que cette créature bloque, vous pouvez payer {2}, si vous le faite créez une copie de cette créature.</text>
+    </card>
+    <card>
+      <name>Faucon fidèle</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Créature : bête et oiseau et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol, vigilance
+Rempart— À chaque fois que cette créature bloque, jusqu’à une autre créature que vous contrôlez acquiert l’indestructible jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Tromperie des vents favorable</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Incitez la créature ciblée jusqu’au début de votre prochain tour.
+Les créatures que vous ne contrôlez pas qui sont incité ont -1/-0</text>
+    </card>
+    <card>
+      <name>Sanglier nacre-ivoire</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Créature : bête et sanglier et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Parade {2}
+Rempart— À chaque fois que cette créature bloque, il inflige X blessures au joueur attaquant, X étant le nombre de créature attaquante.</text>
+    </card>
+    <card>
+      <name>Sigil de l&apos;oeil de Chouette</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artefact : équipement et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Quand le Sigil de l’oeil de Chouette arrive attachez le à une créature que vous contrôlez et dégagez cette créature.
+La créature équipé a +0/+2 et la vigilance.
+{W}, sacrifiez cet artefact : Regard 1, piochez une carte.</text>
+    </card>
+    <card>
+      <name>Forteresse de nacre-ivoire</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Créature-artefact : mur et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Défenseur
+Les créatures que vous contrôlez ont la parade {1}</text>
+    </card>
+    <card>
+      <name>Ainsi débuta le nouveau cycle</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exilez toutes les créatures attaquante, leur contrôleur créer autant de jeton de créature 1/1 blanc humain avec la vigilance attaquant.</text>
+    </card>
+    <card>
+      <name>Agitateur simiesque</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Créature : bête et singe et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Portée
+Quand l’Agitateur simiesque arrive incitez jusqu’à une créature ciblée. (Jusqu’à votre prochain tour, cette créature attaque à chaque combat si possible et attaque un joueur autre que vous si possible.)</text>
+    </card>
+    <card>
+      <name>Familier aazorath</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Créature : bête et souris et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Rempart — Quand cette créature bloque, il gagne +0/+2 jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Embuscade préparé</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>La créature ciblée acquiert le contact mortel et l’indestructible jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Vipère à crochet irritant</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Créature : bête et serpent et oiseau et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol
+Quand la Vipère à crochet irritant attaque, incitez jusqu’à une créature ciblée.</text>
+    </card>
+    <card>
+      <name>Instructeur de la Rose</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Créature : humain et chevalier et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+Les créatures que vous contrôlez qui bloque ont +1/+2</text>
+    </card>
+    <card>
+      <name>Animatronc d&apos;Ombreal</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Créature : sylvin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Portée
+Rempart — Quand cette créature bloque, il inflige deux points de dégâts à la créature bloquée.</text>
+    </card>
+    <card>
+      <name>Bastion des dissidents</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cet enchantement arrive avec cinq marqueur Charge. À chaque fois qu’au moins une créature que vous contrôlez bloque mettez un marqueur Charge sur cet enchantement.
+{T}, retirez un marqueur Charge : incitez jusqu’à deux créatures ciblées.
+{T}, retirez deux marqueurs Charge : Exilez une créature ciblée, renvoyez la sur le champ de bataille sous le contrôle de son propriétaire. Piochez une carte.
+{T}, retirez trois marqueurs Charge : Détruisez un enchantement ou un artefact ciblé, créez un jeton de créature 3/3 verte rebelle avec la vigilance. Piochez une carte.</text>
+    </card>
+    <card>
+      <name>Harmonisateur sacré</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Créature : Humain et Clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Rempart — Quand cette créature bloque, exilez jusqu’à une créature jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Rage collective</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Jusqu’à votre prochain tour les créatures que vous contrôlez ont +1/+1 et les créatures que vous ne contrôlez pas sont incitez.</text>
+    </card>
+    <card>
+      <name>Chanteur Ode-foudre</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et moine et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vos sort d’un coût de cinq ou plus coûte {1} de moins à lancer.</text>
+    </card>
+    <card>
+      <name>Faucon de cendre éternel</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Créature : bête et oiseau et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol, célérité
+Règne — À chaque fois que vous lancez un sort avec un coût supérieur ou égal à cinq, renvoyez cette créature depuis le cimetière sur le champ de bataille.</text>
+    </card>
+    <card>
+      <name>Golem ardent</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Créature : golem et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Piétinement
+Règne — À chaque fois que vous lancez un sort avec un coût supérieur ou égal à cinq, le Golem ardent inflige 2 blessures à n’importe quelle cible.</text>
+    </card>
+    <card>
+      <name>Rejeton des montagnes</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>6R</manacost>
+        <cmc>7</cmc>
+        <type>Créature : élémental et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Évocation 2R  (Vous pouvez lancer ce sort pour son coût d’évocation. Si vous faites ainsi, il est sacrifié quand il arrive sur le champ de bataille.)
+Lien de vie, célérité
+Quand le Rejeton des montagnes arrive il inflige 3 blessures à n’importe quelle cible.</text>
+    </card>
+    <card>
+      <name>Prêtre de la Crinière Noir</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Menace
+Règne — À chaque fois que vous lancez un sort avec un coût supérieur ou égal à cinq, mettez un marqueur +1/+1 sur cette créature.</text>
+    </card>
+    <card>
+      <name>Vanité face à la Tempête</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vanité face à la Tempête inflige 10 blessures réparti entre n’importe quel nombre de créatures ciblées.
+Vide — Si un permanent a quitté le champ de bataille ce tour, ce sort coûte {3} de moins à lancer.</text>
+    </card>
+    <card>
+      <name>Préparation précipité</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exilez la carte du dessus de votre bibliothèque, vous pouvez la jouer jusqu’à la fin du tour. Si vous ne le faites pas créer deux jetons Trésor engagé.</text>
+    </card>
+    <card>
+      <name>Richesse insondable de Phaïyu</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand la Richesse insondable de Phaïyu arrive, créez un jeton de créature 3/3 rouge Dragon avec le vol.
+À chaque fois que vous lancer un sort créez un jeton Trésor engagé. Si ce sort à une valeur de mana supérieur ou égal à cinq créez deux jetons Trésor engagé à la place.</text>
+    </card>
+    <card>
+      <name>Stratégie du Lion-Blanc</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>La créature ciblée acquiert le linceul jusqu’à la fin de votre prochain tour.
+ </text>
+    </card>
+    <card>
+      <name>Révélation de Shanïa</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantement : aura et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchanter : créature
+La créature enchanté à “Lorsque cette créature bloque, prévenez les blessures qu’elle devrait infligé”, vous gagnez autant de point de vie que de dégâts prévenu de cette façon.
+Quand cet enchantement est mis dans le cimetière depuis le champ de bataille, renvoyez-le dans votre main.</text>
+    </card>
+    <card>
+      <name>Apaiseur d&apos;âme</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Règne — À chaque fois que vous lancez un sort avec un coût supérieur ou égal à cinq, vous pouvez exilé une créature jusqu’à la prochaine étape de fin.</text>
+    </card>
+    <card>
+      <name>Lézard à collerette de mana</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Créature : bête et lézard et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Règne — À chaque fois que vous lancez un sort avec un coût supérieur ou égal à cinq, cette créature a +3/+3 jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Floraison flamboyante</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>La Floraison flamboyante inflige 3 blessures à chaque créature que vos adversaire contrôle. Jusqu’à la fin du tour quand une créature que vous ne contrôlez pas meurt créez un jeton Trésor engagé.</text>
+    </card>
+    <card>
+      <name>Méditateur des racines terrestres</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Règne— À chaque fois que vous lancez un sort avec un coût supérieur ou égal à cinq, vous pouvez renvoyer une carte de votre cimetière avec une valeur de mana supérieur ou égal à cinq dans votre main.</text>
+    </card>
+    <card>
+      <name>Ashni, Empereur d&apos;Ombreal</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6GG</manacost>
+        <cmc>8</cmc>
+        <type>Créature légendaire : bête et serpent et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash, piétinement
+Ashni coûte {1} de moins à lancé pour chaque créature qui a quitté le champ de bataille ce tour.
+Quand Ashni, Empereur d’Ombreal arrive vous pouvez faire qu’il se bat contre une autre créature, si vous ne le faite pas gagnez 4 points de vie</text>
+    </card>
+    <card>
+      <name>Éxécutant de Midiri</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G // 1G</manacost>
+        <cmc>4</cmc>
+        <type>Créature : humain et clerc et  // Rituel : Aventure et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Règne — À chaque fois que vous lancer un sort avec un coût supérieur ou égal à cinq, vous pouvez renvoyer un terrain de votre cimetière sur le champ de bataille engagé.
+--- 
+Cherchez dans votre bibliothèque jusqu’à deux cartes de terrain, révélez ces cartes, mettez-en une sur le champ de bataille engagée et l’autre dans votre cimetière, puis mélangez.</text>
+    </card>
+    <card>
+      <name>Explosion sismique</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Mettez jusqu’à deux terrain de votre main sur le champ de bataille.
+Explosion sismique inflige X blessures à une créature ciblée, X étant le nombre de terrain que vous contrôlez. Le surplus de blessures est infligé au contrôleur de cette créature à la place.</text>
+    </card>
+    <card>
+      <name>Végétation meurtrière </name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Les plantes que vous contrôlez ont +X/+X, X étant le nombre de créature attaquante.
+Règne— À chaque fois que vous lancez un sort avec un coût supérieur ou égal à cinq, créez deux jetons de créature 0/1 verte Plante.</text>
+    </card>
+    <card>
+      <name>Convocateur d&apos;orage</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et moine et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Règne — À chaque fois que vous lancez un sort avec un coût supérieur ou égal à cinq, les créatures que vous contrôlez ont le piétinement jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Résiliance de la meute</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ce sort coûte {1} de moins à lancer pour chaque créature que vous contrôlez.
+Mettez un marqueur +1/+1 sur chaque créature que vous contrôlez, elles acquièrent l’indestructible jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Éveil d&apos;Abysse</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifiez n’importe quel nombre de terrain.
+Ajoutez X manas d’un couleur unique de votre choix, X étant le nombre de terrain dans tous les cimetières.</text>
+    </card>
+    <card>
+      <name>Terrasseur des cîmes</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Créature : esprit et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Piétinement, portée
+Règne — À chaque fois que vous lancez un sort avec un coût supérieur ou égal à cinq, vous pouvez chercher une carte de terrain dans votre bibliothèques et la mettre sur le champ de bataille engagée, puis mélangez.</text>
+    </card>
+    <card>
+      <name>Griffeur apprivoisé</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Créature : bête et loup et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand le Griffeur apprivoisé arrive ou quitte le champ de bataille, mettez un marqueur Saignement sur jusqu’à une créature ciblée.</text>
+    </card>
+    <card>
+      <name>Souffle de Shanïa</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exilez toutes les créatures, renvoyez-les sur le champ de bataille sous le contrôle de leur propriétaire au début de l’entretient de leur propriétaire.</text>
+    </card>
+    <card>
+      <name>Crapaud belliqueux</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Créature : bête et grenouille et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand une carte quitte votre exil, le Crapaud belliqueux inflige un nombre de blessure égal à sa force à une créature ciblée qu’un adversaire contrôle.</text>
+    </card>
+    <card>
+      <name>Courage, fuyons !</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantement : aura et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchanter : créature
+Quand la créature enchanté bloque, exilez cet enchantement avec un marqueur Couard et la créature enchanté avec deux marqueurs Temps. Si elle n’a pas la suspension, elle acquiert la suspension.
+Quand une créature arrive sous votre contrôle depuis l’exil, si cet enchantement est exilé avec un marqueur Couard, vous pouvez lui attacher cet enchantement.</text>
+    </card>
+    <card>
+      <name>Maitre des embuscades</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et éclaireur et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’une créature que vous contrôlez arrive depuis l’exil, elle acquiert la célérité. Si elle le possède déjà elle gagne +1/+1 et le piétinement jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Tehaal, Imperatrice d&apos;Ombreal</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Créature légendaire : bête et manticore et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Les cartes de créature dans votre main ont “Suspension 2 —- {3}”.
+Suspension 2 —- 1GG</text>
+    </card>
+    <card>
+      <name>Scorpidé tapi</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Créature : bête et scorpion et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Contact mortel
+Suspension 5 —- 1G (Plutôt que lancer cette carte depuis votre main, payez - 1G et exilez-la avec cinq marqueurs « temps » sur elle. Au début de votre entretien, retirez un marqueur « temps ». Quand le dernier marqueur est retiré, lancez cette carte sans payer son coût de mana.)
+À chaque fois qu’au moins une créature vous attaque, si cette carte est exilé avec au moins un marqueur Temps, vous pouvez lui retirer un marqueur Temps.
+Quand cette créature arrive, elle acquiert l’intiative jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Mouton lainefeuille</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Créature : bête et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand cette créature quitte le champ de bataille, créez un jeton Cachette. (C’est un artefact avec « {1}, sacrifiez cet artefact : Exilez une créature que vous contrôlez avec un marqueur Temps, si elle n’avait pas la suspension, elle acquiert la suspension. »)</text>
+    </card>
+    <card>
+      <name>Acte de résistance insidieux</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Détruisez un artefact ou un enchantement ciblée. Créez un jeton Cachette. (C’est un artefact avec « {1}, sacrifiez cet artefact : Exilez une créature que vous contrôlez avec un marqueur Temps, si elle n’avait pas la suspension, elle acquiert la suspension. »)</text>
+    </card>
+    <card>
+      <name>Un coup d&apos;avacance</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Une créature que vous contrôlez se bat avec une autre créature ciblée. Créez un jeton Cachette.</text>
+    </card>
+    <card>
+      <name>Protecteur sculte-vague</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que sacrifiez un ou plusieurs autre permanent non-jeton, vous pouvez les exiler avec deux marqueurs Temps, si ils n’avaient pas la suspension, ils acquièrent la suspension. N’activez cette capacité qu’une seul fois par tour.</text>
+    </card>
+    <card>
+      <name>Prédiciton des flots</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Piochez deux cartes, puis défaussez vous d’une carte à moins qu’une carte n’ai été exilé ce tour.</text>
+    </card>
+    <card>
+      <name>Rythme des marées</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Piochez une carte, créez un jeton Cachette. (C’est un artefact avec « {1}, sacrifiez cet artefact : Exilez une créature que vous contrôlez avec un marqueur Temps, si elle n’avait pas la suspension, elle acquiert la suspension. »)
+Exilez ce sort avec deux marqueurs Temps sur lui.
+Suspension 2 —- {U}</text>
+    </card>
+    <card>
+      <name>Voldari</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Créature : bête et dragon et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol, vigilance
+Quand la Voldari arrive, vous pouvez exiler n’importe quel nombre d’autre créature que vous contrôlez avec deux marqueurs Temps, si ils n’avaient pas la suspension, ils acquièrent la suspension. Créez X jeton de créature 1/1 bleu esprit avec le vol, X étant le nombre de créature dans votre exil.</text>
+    </card>
+    <card>
+      <name>Manipuler l&apos;orage</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ce sort coûte {2} de moins à lancer si vous contrôlez une carte en exil avec au moins un marqueur Temps.
+Contrecarré le sort ciblé.</text>
+    </card>
+    <card>
+      <name>Épreuve d&apos;Orlane</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>X2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cet enchantement arrive avec X marqueurs Charge.
+Quand l’Épreuve d’Orlane arrive exilez un permanent non-terrain qu’un adversaire contrôle avec X marqueurs Temps, si il n’avait pas la suspension, il acquiert la suspension.
+À chaque fois qu’un adversaire lance un sort depuis autre part que sa main, contrecarrez ce sort à moins que sont contrôleur ne paye {1} pour chaque marqueurs Charge sur cet enchantement.</text>
+    </card>
+    <card>
+      <name>Volée orageuse</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Créature : bête et oiseau et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol
+À chaque fois qu’une carte quitte votre exil, choisissez l’un qui n’a pas été choisi ce tour-ci —
+• Piochez une carte.
+• Mettez un marqueur +1/+1 sur cette créature.
+</text>
+    </card>
+    <card>
+      <name>Ondulation contrôlé</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Contrecarrez le sort d’éphémère ou de rituel ciblé à moins que sont contrôleur ne paie {X}, X étant le nombre de marqueurs Temps sur les cartes en exil plus un.</text>
+    </card>
+    <card>
+      <name>Tacticien de la Chouette</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tant que vous contrôlez au moins une carte en exil avec au moins un marqueur Temps, cette créature ne pas être bloquée.
+À chaque fois que le Tacticien de la Chouette inflige des blessures de combat à un joueur surveillez 2.</text>
+    </card>
+    <card>
+      <name>Yukari, Onde serpentine</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Créature légendaire : humain et clerc et samouraï et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Initiative
+À chaque fois que Yukari inflige des blessures à une créature, exilez cette créature avec trois marqueurs Temps, si elle n’avait pas la suspension, elle acquiert la suspension.
+À chaque fois que Yukari inflige des blessures de combat à une joueur, exilez la carte du dessus de votre bibliothèques avec trois marqueurs Temps, si elle n’avait pas la suspension, elle acquiert la suspension.</text>
+    </card>
+    <card>
+      <name>Temple de Nalwe</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain : temple et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Temple de Nalwe arrive engagé.
+Quand le Temple de Nalwe arrive, regard 1.
+{T} : Ajoutez {W}, {U} ou {B}</text>
+    </card>
+    <card>
+      <name>Temple de Midiri</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain : temple et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Temple de Midiri arrive engagé.
+Quand le Temple de Midiri arrive, regard 1.
+{T} : Ajoutez {B}, {R} ou {G}</text>
+    </card>
+    <card>
+      <name>Temple de Radogen</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain : temple et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Temple de Radogen arrive engagé.
+Quand le Temple de Radogen arrive, regard 1.
+{T} : Ajoutez {R}, {G} ou {W}</text>
+    </card>
+    <card>
+      <name>Temple de Shanïa</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain : temple et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Temple de Shanïa arrive engagé.
+Quand le Temple de Shanïa arrive, regard 1.
+{T} : Ajoutez {G}, {W} ou {U}</text>
+    </card>
+    <card>
+      <name>Temple d&apos;Akad</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain : temple et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Temple d’Akad arrive engagé.
+Quand le Temple d’Akad arrive, regard 1.
+{T} : Ajoutez {W}, {B} ou {G}</text>
+    </card>
+    <card>
+      <name>Temple de Sivid</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain : temple et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Temple de Sivid arrive engagé.
+Quand le Temple de Sivid arrive, regard 1.
+{T} : Ajoutez {U}, {R} ou {W}</text>
+    </card>
+    <card>
+      <name>Temple d&apos;Orlane</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain : temple et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Temple d’Orlane arrive engagé.
+Quand le Temple d’Orlane arrive, regard 1.
+{T} : Ajoutez {B}, {G} ou {U}</text>
+    </card>
+    <card>
+      <name>Temple de Sokham</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain : temple et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Temple de Sokham arrive engagé.
+Quand le Temple de Sokham arrive, regard 1.
+{T} : Ajoutez {R}, {W} ou {B}</text>
+    </card>
+    <card>
+      <name>Temple de Phaïhyu</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain : temple et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Temple de Phaïhyu arrive engagé.
+Quand le Temple de Phaïhyu arrive, regard 1.
+{T} : Ajoutez {G}, {U} ou {R}</text>
+    </card>
+    <card>
+      <name>Temple de Mirta</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain : temple et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Temple de Mirta arrive engagé.
+Quand le Temple de Mirta arrive, regard 1.
+{T} : Ajoutez {U}, {B} ou {R}</text>
+    </card>
+    <card>
+      <name>Manipulation du destin</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>En tant que coût supplémentaire pour lancez ce sort, sacrifiez une créature ou payez 2U.
+Contrecarrez le sort ciblée</text>
+    </card>
+    <card>
+      <name>Émissaire du Cycle</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>UU, {T}, sacrifiez une créature: Renvoyez une carte de créature avec un coût inférieur à la créature sacrifiez depuis votre cimetière sur le champ de bataille</text>
+    </card>
+    <card>
+      <name>Semeur de Tempête</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand vous sacrifiez cette créature, piochez une carte</text>
+    </card>
+    <card>
+      <name>Flot dévoreur</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Créature : élémental et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>La première fois que vous sacrifiez un permanent chaque tour vous pouvez piocher X cartes, si vous le faite perdez X point de vie, X étant la valeur de mana du permanent sacrifiez plus un.</text>
+    </card>
+    <card>
+      <name>Noyé vengeur</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Créature : zombie et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand vous sacrifiez cette créature, un adversaire ciblé se défausse d’une carte.</text>
+    </card>
+    <card>
+      <name>Fin destiné</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Kick— Sacrifiez une créature
+Une créature que vous contrôlez passe hors phase.
+Si ce sort a été kické, n’importe quel nombre de créature que vous contrôlez passe hors-phase.</text>
+    </card>
+    <card>
+      <name>Marin du pavillon Rouge</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et pirate et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand le Marin du pavillon Rouge quitte le champ de bataille créez un jeton Trésor. Si cette créature a été sacrifiez créez deux jetons Trésor à la place.</text>
+    </card>
+    <card>
+      <name>Ancre spirituelle</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’une créature non-jeton que vous contrôlez meurt, créez un jeton de créature 1/1 bleu spectre. Si la créature était enchanté, vous pouvez renvoyez attaché l’une de ces auras.</text>
+    </card>
+    <card>
+      <name>Souffle imbu de Mirta</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantement : aura et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchanter : créature que vous contrôlez.
+La créature enchanté a le lien de vie et “À chaque fois que vous sacrifiez un autre permanent, cette créature inflige 1 blessure à n’importe quelle cible.”. </text>
+    </card>
+    <card>
+      <name>Piège damné</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artefact</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’un joueur sacrifie un permanent, mettez un marqueur Charge sur cet artefact.
+Sacrifiez cet artefact : Créez un jeton de créature 0/0 bleu Spectre avec X marqueur +1/+1, X étant le nombre de marqueur Charge sur cet artefact.
+</text>
+    </card>
+    <card>
+      <name>Fureur animé</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Créature : élémental et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Célérité
+À chaque fois que vous sacrifiez un autre permanent, vous pouvez payer 2R, si vous le faite, renvoyez la Fureur animé sur le champ de bataille depuis votre cimetière.
+Au début de l’étape de fin, sacrifiez cette créature.
+</text>
+    </card>
+    <card>
+      <name>Expiation du dernier souffle</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>En tant que coût supplémentaire pour lancez ce sort vous pouvez sacrifiez jusqu’à trois créature.
+L’Expiation du dernier souffle inflige X blessure à n’importe quel cible, X étant la valeur de mana totale des permanents que vous avez sacrifié ce tour.</text>
+    </card>
+    <card>
+      <name>Wander TelVarin, Roi Glorieux</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Créature légendaire : humain et noble et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vous avez la défense talismanique.
+Quand Wander TelVarin devient la cible d’un sort ou d’une capacité mettez un marqueur +1/+1 sur chaque autre créature que vous contrôlez.</text>
+    </card>
+    <card>
+      <name>Vengeur précipité</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et soldat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Le Vengeur précipité a +1/+0 et la célérité tant que vous avez sacrifié une créature ce tour.</text>
+    </card>
+    <card>
+      <name>Équipe de fouille malhonnête</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et gredin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous sacrifiez un permanent non jeton, créer un jeton Trésor engagé.
+Cette créature a +1/+0 pour chaque artefact que vous contrôlez.</text>
+    </card>
+    <card>
+      <name>Avatar divin corrompue</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Créature : avatar et esprit et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>En tant que coût supplémentaire pour lancer ce sort, sacrifiez trois permanent non terrain.
+Vol</text>
+    </card>
+    <card>
+      <name>Prototype de surcharge</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artefact</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Les sorts non créature coûte {1} de plus a lancer.
+À chaque fois que vous lancez un sort d’éphémère ou de rituel vous pouvez sacrifiez cet artefact, si vous le faite copiez ce sort. Vous pouvez choisir de nouvelles cibles pour cette copie.</text>
+    </card>
+    <card>
+      <name>Sabotage lucratif</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Détruisez un artefact ciblé. Créez deux jetons Trésor.</text>
+    </card>
+    <card>
+      <name>Dévoreur de vie instable</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Créature : élémental et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifiez un autre permanent non jeton : Mettez un marqueur +1/+1 sur cette créature. N’activez que quand vous pourriez lancer un rituel et qu’une seul fois par tour.
+Quand le Dévoreur de vie instable meurt mettez X marqueurs +1/+1 sur chaque créature que vous contrôlez, X étant la force de cette créature.</text>
+    </card>
+    <card>
+      <name>Eclipse du Sang embrasé</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Évocation 2R (Vous pouvez lancer ce sort pour son coût d’évocation. Si vous faites ainsi, il est sacrifié quand il arrive sur le champ de bataille.)
+Quand l’Eclipse du Sang embrasé arrive, elle inflige 2 blessures à chaque créature.
+À chaque fois qu’une créature meurt, son contrôleur perd un point de vie.</text>
+    </card>
+    <card>
+      <name>Rétribution</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Éphémère</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Rétribution inflige 3 blessures à une créature ciblée. Si vous avez sacrifiez un permanent ce tour, Rétribution inflige 6 blessures à la place.</text>
+    </card>
+    <card>
+      <name>Brume de sang</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Les créatures que vous ne contrôlez pas ont -1/-0 pour chaque marqueurs Saignement sur elle.</text>
+    </card>
+    <card>
+      <name>Lacérateur juvénil</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>B/GB/G</manacost>
+        <cmc>2</cmc>
+        <type>Créature : sylvin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Portée
+Quand le Lacérateur juvénil arrive ou attaque, mettez un marqueur Saignement sur jusqu’à une autre créature.</text>
+    </card>
+    <card>
+      <name>Collecteur d&apos;histoire</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2W/U</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand le Collecteur d’histoire arrive, vous pouvez renvoyer un enchantement de votre cimetière dans votre main.</text>
+    </card>
+    <card>
+      <name>Corp de connaissance</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Créature-enchantement : esprit et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Éveil — À chaque fois qu’un autre enchantement non-jeton que vous possédez est mis au cimetière ou en exil, choisissez l’un qui n’a pas été choisi ce tour —
+• Mettez un marqueur +1/+1 sur une créature, elle acquiert le vol jusqu’à la fin du tour.
+• Piochez une carte.</text>
+    </card>
+    <card>
+      <name>Juge de Midiri</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Créature : Humain et Clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Menace
+À chaque fois qu’au moins une créature quitte votre cimetière vous pouvez renvoyé une carte de terrain de votre cimetière sur le champ de bataille engagé.
+Sacrifiez deux terrains : Renvoyez cette créature sur le champ de bataille depuis votre cimetière.</text>
+    </card>
+    <card>
+      <name>Aldrik, conquérant obstiné</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3B/RB/RB/R</manacost>
+        <cmc>6</cmc>
+        <type>Créature légendaire : humain et soldat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Piétinement, lien de vie
+Descellement— Quand cette créature quitte votre cimetière, il inflige 4 blessures à une créature adverse ciblée.
+Si Aldrik devait être exilé depuis votre cimetière, mettez le sur le dessus de votre bibliothèque puis mélangez la.</text>
+    </card>
+    <card>
+      <name>Banc de piranha volant</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1U/B</manacost>
+        <cmc>2</cmc>
+        <type>Créature : poisson et bête et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol
+Sacre— Quand cette carte est mise dans votre cimetière depuis votre main ou votre bibliothèque, créez trois jetons de créature 1/1 bleu poisson.</text>
+    </card>
+    <card>
+      <name>Connection de la Chouette</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2W/BW/B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous lancez votre premier sort durant le tour d’un adversaire, piochez une carte.</text>
+    </card>
+    <card>
+      <name>Plan fuité</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artefact : indice et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Quand cet artefact arrive, prévenez toutes les blessures qui devrait être infligé ce tour-ci.
+WB, sacrifiez cet artefact : piochez deux carte.</text>
+    </card>
+    <card>
+      <name>Évêque des Serres Ardentes</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous gagnez des points de vie pour la première fois pendant votre tour, cette créature inflige autant de blessures à une créature qu’un adversaire contrôle.</text>
+    </card>
+    <card>
+      <name>Appel de la Croisade</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3R/WR/W</manacost>
+        <cmc>5</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous perdez des points de vie pour la première fois pendant votre tour, créer un jeton de créature 2/2 blanche chevalier avec le lien de vie.</text>
+    </card>
+    <card>
+      <name>Berger ingénieux</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>G/W</manacost>
+        <cmc>1</cmc>
+        <type>Créature : humain et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand le Berger ingénieux arrive, un adversaire ciblé crée trois jetons de créature 1/1 verte mouton avec “Cette créature attaque chaque tour si possible”.</text>
+    </card>
+    <card>
+      <name>Élites Akadiennes</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Défense talismanique
+Rempart — Quand cette créature bloque, piochez une carte.
+À chaque fois qu’un adversaire vous attaque avec au moins trois créatures, les Élites Akadiennes acquiert +2/+2 et la portée jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Œuf gorgé de mana</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>R/G</manacost>
+        <cmc>1</cmc>
+        <type>Créature : œuf et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Défenseur 
+Sacrifiez l’Œuf gorgé de mana : ajoutez RR, RG ou GG, n’utiliser ce mana que pour lancer un sort avec une valeur de mana supérieur ou égal à cinq.</text>
+    </card>
+    <card>
+      <name>Témoin des merveilles</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Créature : humain et éclaireur et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand le Témoin des merveilles arrive révélez les cartes du dessus de votre bibliothèque jusqu’à révélez un sort d’un coût supérieur ou égal à cinq, mettez dans votre main le dans votre main et le reste au dessous de votre bibliothèque dans un ordre aléatoire.</text>
+    </card>
+    <card>
+      <name>Maitrise invisible</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantement</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois que vous retirez au moins un marqueur Temps, piochez une carte.</text>
+    </card>
+    <card>
+      <name>Pêcheur du Pavillon Rouge</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>G/U</manacost>
+        <cmc>1</cmc>
+        <type>Créature : humain et pirate et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’au moins une carte quitte votre exil, créez deux jeton de créature 1/1 bleue poisson.</text>
+    </card>
+    <card>
+      <name>Marque du Cycle</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Enchantement : aura et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchanter : créature que vous contrôlez
+La créature enchanté a prouesse. (À chaque fois que vous lancez un sort non-créature, cette créature gagne +1/+1 jusqu’à la fin du tour.)
+Si la créature enchanté devait mourir, à la place, si il n’avait pas de marqueur Fin sur elle, régénérez la et mettez un marqueur Fin sur elle. Sinon, sacrifiez cette créature et renvoyez cette aura dans la main de son propriétaire. (La prochaine fois que cette créature devrait être détruite ce tour-ci, elle ne l’est pas. À la place, engagez-la, retirez-lui toutes ses blessures et retirez-la du combat.)</text>
+    </card>
+    <card>
+      <name>Sauveur condamné </name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>U/RU/R</manacost>
+        <cmc>2</cmc>
+        <type>Créature : humain et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Quand vous sacrifiez cette créature, renvoyez n’importe quel nombre de créature de votre cimetière avec une valeur de mana totale inférieur ou égal à trois.</text>
+    </card>
+    <card>
+      <name>Marius Ronbar, légende vivante</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Créature légendaire : humain et soldat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+À chaque fois que Marius Ronbar ou une autre créature que vous contrôlez meurt détruisez une créature de force supérieur ou égal à quatre qu’un adversaire contrôle.</text>
+    </card>
+    <card>
+      <name>Grenouille gonflé de mana</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Créature : grenouille et bête et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’un joueur lance un sort mettez un marqueur +1/+1 sur cette créature.
+Quand la Grenouille gonflé de mana meurt, exilé la et ajoutez X mana d’un seul couleur de votre choix, X étant la force de cette créature. Vous ne perdez pas ce mana jusqu’à la fin de votre prochain tour.</text>
+    </card>
+    <card>
+      <name>Alexy TelVarin, Prince chétif</name>
+      <set rarity="mythic" splitterPath="/Alexy TelVarin, Prince chétif.jpg" >EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Créature légendaire : humain et noble et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’un joueur lance son deuxième sort chaque tour créer un jeton Nourritures, puis si vous contrôlez au moins cinq artefact transformez cette créature.
+---
+(Back): Œil d&apos;Ambre, bienfaiteur anonyme</text>
+      <related attach="transform">Œil d&apos;Ambre, bienfaiteur anonyme</related>
+    </card>
+    <card>
+      <name>Œil d&apos;Ambre, bienfaiteur anonyme</name>
+      <set rarity="mythic" splitterPath="/Œil d'Ambre, bienfaiteur anonyme.jpg" >EQM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Créature légendaire : humain et scientifique et </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+La force d’Œil d’Ambre est égale au nombre d’artefact que vous contrôlez, et son endurance est égale à ce nombre plus 1.
+Les Nourritures que vous contrôlez ont “{1},sacrifiez cet artefact : Gagnez 4 point de vie”
+{T}: Créez deux jetons Nourriture
+---
+(Front): Alexy TelVarin, Prince chétif</text>
+      <related attach="transform">Alexy TelVarin, Prince chétif</related>
+    </card>
+    <card>
+      <name>Sam, explorateur chanceux</name>
+      <set rarity="mythic" splitterPath="/Sam, explorateur chanceux.jpg" >EQM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Créature légendaire : humain et éclaireur et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Toucheterre — À chaque fois qu’un terrain que vous contrôlez arrive, créez un jeton Trésor.
+Les artefacts que vous contrôlez ont “{T}, sacrifiez cet artefact : Ajoutez un mana de la couleur de votre choix”
+4GWU: Exilez Sam puis renvoyez le transformez sous votre contrôle
+---
+(Back): Matthew, Arcaniste divin</text>
+      <related attach="transform">Matthew, Arcaniste divin</related>
+    </card>
+    <card>
+      <name>Matthew, Arcaniste divin</name>
+      <set rarity="mythic" splitterPath="/Matthew, Arcaniste divin.jpg" >EQM</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Créature-enchantement légendaire : dieu et sorcier et </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol
+Au début de votre étape de fin révélez les cartes du dessus de votre bibliothèque jusqu’à révéler un sort d’éphémère ou de rituel, vous pouvez lancer ce sort sans payer son coût. Si vous le faite copier ce sort, vous pouvez choisir de nouvelle cible pour cette copie. Mettez les autres cartes en dessous de votre bibliothèque.
+À chaque fois que Matthew devient la cible d’une capacité ou d’un sort vous pouvez payer {2}, si vous le faite exilez le, renvoyez le transformé à la prochaine étape de fin.
+---
+(Front): Sam, explorateur chanceux</text>
+      <related attach="transform">Sam, explorateur chanceux</related>
+    </card>
+    <card>
+      <name>Mérinia, danseuse d&apos;Acier</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Créature légendaire : soldat et manifestation et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Initiative
+Les créatures attaquantes que vous contrôlez ont +X/+X, X étant le nombre de créature attaquante que vous contrôlez.</text>
+    </card>
+    <card>
+      <name>Liza Moonveil, fille du Cycle</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Créature légendaire : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Au début de votre entretien, chaque joueur peut piocher une carte. Chaque adversaire qui pioche une carte de cette manière ne peut pas lancer de sorts ni activer de capacités jusqu’à la fin du tour.</text>
+    </card>
+    <card>
+      <name>Medrawt, faucon flamboyant</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Créature légendaire : humain et oiseau et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lien de vie, vol
+Quand une source non créature que vous contrôlez inflige des blessures à une seule créature que vous ne contrôlez pas, vous pouvez faire que Medrawt inflige autant de blessure à une autre créature ciblée.</text>
+    </card>
+    <card>
+      <name>Kyran, roi née parmi le peuple</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Créature légendaire : humain et citoyen et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’un adversaire lance son deuxième sort chaque tour, créer un jeton Trésor.
+Sacrifiez deux jetons : Piochez une carte.</text>
+    </card>
+    <card>
+      <name>Alista, fleur de la Rose</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Créature légendaire : humain et soldat et noble et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Partenariat avec Jin, épine de la Rose (Quand cette créature arrive sur le champ de bataille, un joueur ciblé peut mettre Jin, épine de la Rose dans sa main depuis sa bibliothèque, puis mélanger.)
+Pendant le tour de vos adversaire les créatures que vous contrôlez ont +0/+1 et la portée.</text>
+    </card>
+    <card>
+      <name>Jin, épine de la Rose</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Créature légendaire : humain et soldat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Partenariat avec Alista, fleur de la Rose (Quand cette créature arrive sur le champ de bataille, un joueur ciblé peut mettre Alista, fleur de la Rose dans sa main depuis sa bibliothèque, puis mélanger.)
+Pendant votre tour, les créatures que vous contrôlez ont +1/+0 et l’initiative.</text>
+    </card>
+    <card>
+      <name>Machination à Baestra</name>
+      <set rarity="mythic" splitterPath="/Machination à Baestra.jpg" >EQM</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>1UBR</manacost>
+        <cmc>4</cmc>
+        <type>Enchantement légendaire : saga et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Au moment où cette saga arrive sur le champ de bataille et après votre étape de pioche, ajoutez un marqueur « sapience ».)
+I — Opprimer les puissants — Les créatures ayant une force supérieure ou égale à 4 perdent toutes leurs capacités et ont une force et une endurance de base de 1/1.
+II — Tourmenter les faibles — Détruisez toutes les créatures de force inférieur ou égal à 3.
+III — Manifestation de la terreur — Exilez cette saga puis renvoyez-la transformé sous votre contrôle.
+---
+(Back): Hubryss, Cauchemar de Baestra</text>
+      <related attach="transform">Hubryss, Cauchemar de Baestra</related>
+    </card>
+    <card>
+      <name>Hubryss, Cauchemar de Baestra</name>
+      <set rarity="mythic" splitterPath="/Hubryss, Cauchemar de Baestra.jpg" >EQM</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Créature-enchantement légendaire : humain et manifestation et horreur et </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Contact mortel, menace
+Parade—Sacrifiez une créature
+La force et l’endurance d’Hubryss est égale au nombre de créature dans tous les cimetière plus 1.
+---
+(Front): Machination à Baestra</text>
+      <related attach="transform">Machination à Baestra</related>
+    </card>
+    <card>
+      <name>Dashae, capitaine prodige</name>
+      <set rarity="mythic" splitterPath="/Dashae, capitaine prodige.jpg" >EQM</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Créature légendaire : humain et soldat et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Protection contre les créatures
+Au début de votre étape de fin, si vous ne contrôlez aucune autre créature et qu’il y a au moins trois cartes de créature dans votre cimetière, transformez cette créature.
+---
+(Back): Dashae, Grande Éveillé</text>
+      <related attach="transform">Dashae, Grande Éveillé</related>
+    </card>
+    <card>
+      <name>Dashae, Grande Éveillé</name>
+      <set rarity="mythic" splitterPath="/Dashae, Grande Éveillé.jpg" >EQM</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Créature légendaire : humain et soldat et </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Dashae à la protection contre les créature et les enchantement tant qu’elle est engagée.
+Dashae à la protection contre les éphémère et les rituel tant qu’elle est dégagée.
+WUBRG: Vous pouvez lancer un sort depuis votre main ayant une valeur de mana inférieure ou égale à 4. Quand vous lancez ce sort, copiez-le. Vous pouvez choisir de nouvelles cibles pour la copie. N’activez cette capacité qu’une fois par tour.
+---
+(Front): Dashae, capitaine prodige</text>
+      <related attach="transform">Dashae, capitaine prodige</related>
+    </card>
+    <card>
+      <name>Elkorn, expérience vivant</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>2GUR</manacost>
+        <cmc>5</cmc>
+        <type>Créature légendaire : humain et géant et dragon et esprit et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Célérité, piétinement, parade {3}
+Vous pouvez jouer un terrain supplémentaire pendant chacun de vos tours.
+Les sort de créature ont l’affinité pour les terrain de base.</text>
+    </card>
+    <card>
+      <name>Algor TelVarin, prince despote</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BRR</manacost>
+        <cmc>3</cmc>
+        <type>Créature légendaire : humain et soldat et noble et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lien de vie
+Quand Algor arrive un adversaire ciblé devient le monarque.
+Au début de l’étape de fin de chaque joueur, si il est le monarque Algor lui inflige 3 blessures.</text>
+    </card>
+    <card>
+      <name>Ylane, Oeil des Bas-fonds</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>W/BU</manacost>
+        <cmc>2</cmc>
+        <type>Créature légendaire : humain et éclaireur et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Partenariat avec Arand, Lame des opprimés (Quand cette créature arrive sur le champ de bataille, un joueur ciblé peut mettre Arand, Lame des opprimés dans sa main depuis sa bibliothèque, puis mélanger.)
+À chaque fois que vous lancez un sort non créature, regardez les deux cartes du dessus de votre bibliothèque, vous pouvez mettre l’une d’entre elle dans votre cimetière.</text>
+    </card>
+    <card>
+      <name>Arand, Lame des opprimé</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>W/UB</manacost>
+        <cmc>2</cmc>
+        <type>Créature légendaire : humain et assassin et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Partenariat avec Ylane, Oeil des Bas-fonds (Quand cette créature arrive sur le champ de bataille, un joueur ciblé peut mettre Ylane, Oeil des Bas-fonds dans sa main depuis sa bibliothèque, puis mélanger.)
+Arand ne peut pas être bloqué par des créatures de force supérieur ou égal à 3.
+Quand Arand inflige des blessures de combat à un joueur vous pouvez renvoyer sur le champ de bataille depuis votre cimetière une créature avec une force inférieur ou égal à 1.</text>
+    </card>
+    <card>
+      <name>Caleb, champion de Mirta</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>WUBR</colors>
+        <manacost>2UW/BR</manacost>
+        <cmc>5</cmc>
+        <type>Créature légendaire : humain et clerc et chevalier et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+À chaque fois qu’une créature quitte le cimetière d’un adversaire, Caleb inflige un nombre de blessure égal à la valeur de mana de la créature ciblé à ce joueur.</text>
+    </card>
+    <card>
+      <name>Leyti, convoité par la Tempête</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Créature légendaire : humain et moine et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’une source non créature que vous contrôlez devait infliger des blessures à un adversaire ou un permanent qu’il contrôle, il en inflige le double à la place.
+Au début de votre étape de fin, mettez un marqueur +1/+1 sur Leyti pour chaque adversaire qui a perdu au moins quatre point de vie ce tour-ci.</text>
+    </card>
+    <card>
+      <name>Pape Artyr</name>
+      <set rarity="mythic">EQM</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>3WUBRG</manacost>
+        <cmc>8</cmc>
+        <type>Créature légendaire : humain et clerc et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Affinité pour les temples. (Ce sort coûte {1} de moins à lancer pour chaque temples que vous contrôlez.)
+Les moines et les clerc que vous contrôlez ont +1/+1 pour chaque temple que vous contrôlez.
+Lorsque vous engagé un temple pour produire du mana, ce terrain produit un mana de chaque couleur qu’il peut produire à la place.</text>
+    </card>
+    <card>
+      <name>Bague buveuse de vie</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artefact légendaire : équipement et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>La créature équipé à +2/-1 et “À chaque fois que cette créature attaque vous pouvez lui mettre un marqueur -1/-1, si vous le faite elle inflige un nombre de blessure égal à sa force à jusqu’à X cibles, X étant le nombre de marqueur -1/-1 sur cette créature”
+Équipement— Payez 5 point de vie. N’activez qu’une seule fois par tour.</text>
+    </card>
+    <card>
+      <name>Pendentif dévoreur d&apos;Esprit</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artefact légendaire : équipement et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>La taille maximale de votre main est réduite de deux.
+La créature équipé à “À chaque fois que cette créature attaque, révélé la carte du dessus de votre bibliothèque jusqu’à révélé un sort non créature. Vous pouvez lancé ce sort sans payez son coût de mana, sinon mettez le dans votre main. Mettez les autres cartes au dessous de votre bibliothèque dans un ordre aléatoire”
+Équipement—- Défaussez deux cartes. N’activez qu’une seul fois par tour.</text>
+    </card>
+    <card>
+      <name>Stigmate de la réalité</name>
+      <set rarity="mythic" splitterPath="/Stigmate de la réalité.jpg" >EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Enchantement légendaire</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Les joueurs passe leur étape de pioche.
+{1}, payez 3 point de vie: Piochez deux cartes puis défaussez une carte. N’importe quel joueur peut activer cette capacité durant son tour.
+Façonnez avec Bague buveuse de vie et Pendentif dévoreur d’Esprit  (Exilez ce permanent, exilez au moins un autre permanent que vous contrôlez et/ou au moins une carte de permanent de votre cimetière nommez Bague buveuse de vie et Pendentif dévoreur d’Esprit : Renvoyez cette carte transformée sous le contrôle de son propriétaire. Ne façonnez que lorsque vous pourriez lancer un rituel.)
+---
+(Back): Maitrise de la Toile du Réel</text>
+      <related attach="transform">Maitrise de la Toile du Réel</related>
+    </card>
+    <card>
+      <name>Maitrise de la Toile du Réel</name>
+      <set rarity="mythic" splitterPath="/Maitrise de la Toile du Réel.jpg" >EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Enchantement légendaire</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>À chaque fois qu’un adversaire lance un sort, copiez ce sort et perdez un point de vie. Vous pouvez choisir de nouvelle cible pour la copie.
+---
+(Front): Stigmate de la réalité</text>
+      <related attach="transform">Stigmate de la réalité</related>
+    </card>
+    <card>
+      <name>Intervention divine</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Rituel</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Un joueur ciblé piochez X cartes, Intervention divine inflige X blessures à n’importe quelle cible, vous gagnez X point de vie, vous créez un jeton de créature X/X incolore Avatar, X étant le nombres de couleurs de mana dépensé pour lancer ce sort.</text>
+    </card>
+    <card>
+      <name>Baestra, Cité lumineuse</name>
+      <set rarity="rare" splitterPath="/Baestra, Cité lumineuse.jpg" >EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Ajourez {W}
+La première fois que vous lancez un sort pendant votre tour crée un jeton Trésor engagé.
+---
+(Back): Bas-fond de Baestra</text>
+      <related attach="transform">Bas-fond de Baestra</related>
+    </card>
+    <card>
+      <name>Bas-fond de Baestra</name>
+      <set rarity="rare" splitterPath="/Bas-fond de Baestra.jpg" >EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Ajoutez {B}
+La première fois que lancez pendant le tour d’un adversaire crée un jeton de Trésor engagé.
+---
+(Front): Baestra, Cité lumineuse</text>
+      <related attach="transform">Baestra, Cité lumineuse</related>
+    </card>
+    <card>
+      <name>Ombreal, Repère des bêtes</name>
+      <set rarity="rare">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain légendaire</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ce terrain à tous les types de terrain de base.
+T2: Ajoutez X mana d’un seul couleur de votre choix, X étant le nombre de bête que vous contrôlez. Ce mana ne peut être utilisé que pour lancer des sorts de bêtes.</text>
+    </card>
+    <card>
+      <name>Palais divin</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain : temple et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Ajoutez un mana de la couleur de votre choix. Ce mana ne peut être utilisé que pour lancer des sorts non créature ou des sort de clerc et de moine.</text>
+    </card>
+    <card>
+      <name>Carte antique</name>
+      <set rarity="common">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artefact</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}: Cherchez dans votre bibliothèque une carte de terrain de base ou de temple, mettez la sur le champ de bataille engagé puis mélangez votre bibliothèque.</text>
+    </card>
+    <card>
+      <name>Grimoire confluant</name>
+      <set rarity="uncommon">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artefact</type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{X}, {T}: Ajoutez X mana d’une seule couleur de votre choix.</text>
+    </card>
+    <card>
+      <name>Plaine</name>
+      <set rarity="">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain de base : Plaine et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Île</name>
+      <set rarity="">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain de base : Île et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Marais</name>
+      <set rarity="">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain de base : Marais et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Montagne</name>
+      <set rarity="">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain de base : Montagne et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forêt</name>
+      <set rarity="">EQM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Terrain de base : Forêt et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Avatar EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors></colors>
+        <type>Créature-jeton : Avatar et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Humain EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>W</colors>
+        <type>Créature-jeton : humain et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Esprit EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>W</colors>
+        <type>Créature-enchantement-jeton : esprit et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol, vigilance</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Abyssal EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>B</colors>
+        <type>Créature-jeton : abyssal et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Cachette EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors></colors>
+        <type>Artefact-jeton : cachette et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, sacrifiez cet artefact : Exilez une créature que vous contrôlez avec un marqueur Temps, si elle n’avait pas la suspension, elle acquiert la suspension.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spectre EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>U</colors>
+        <type>Créature-jeton : spectre et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Chevalier EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>WR</colors>
+        <type>Créature-jeton : chevalier et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lien de vie</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Chevalier Esprit EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>W</colors>
+        <type>Créature-jeton : chevalier et esprit et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Initiative</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Poisson EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>U</colors>
+        <type>Créature-jeton : poisson et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Mouton EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>G</colors>
+        <type>Créature-jeton : mouton et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cette créature attaque à chaque combat si possible.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Mirage EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>U</colors>
+        <type>Créature-jeton : mirage et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Rempart— Quand cette créature bloque, piochez une carte.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Golem Sang-Acier EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>BR</colors>
+        <type>Créature-artefact-jeton : golem et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Cultiste EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>B</colors>
+        <type>Créature-jeton : cultiste et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Menace</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Élémental EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>W</colors>
+        <type>Créature-jeton : élémental et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Golem EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors></colors>
+        <type>Créature-jeton : golem et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Piétinement</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Esprit EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>B</colors>
+        <type>Créature-jeton : esprit et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spectre EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>U</colors>
+        <type>Créature-jeton : spectre et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Dragon EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>R</colors>
+        <type>Créature-jeton : dragon et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Céleste EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>W</colors>
+        <type>Créature-jeton : céleste et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lien de vie</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Plante EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>G</colors>
+        <type>Créature-jeton : plante et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Esprit EQM</name>
+      <set>EQM</set>
+      <prop>
+        <colors>U</colors>
+        <type>Créature-jeton : esprit et </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vol</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
